@@ -13,7 +13,7 @@ function carregarFlashcards(){
         {id: 4, question: "Podemos colocar __ dentro do JSX", answer: "expressões"},
         {id: 5, question: "ReactDOM nos ajuda __ ", answer: "interagindo com a DOM para colocar componentes React na mesma"},
         {id: 6, question: "Usamos o npm para __", answer: "gerenciar os pacotes necessários e suas dependências"},
-        {id: 7, question: "Usamos props para __ ", answer: "passar diferentes informações para  nentes"},
+        {id: 7, question: "Usamos props para __ ", answer: "passar diferentes informações para componentes"},
         {id: 8, question: "a forma correta de atualizar o estado de um tipo de dado não primitivo no React", answer: "[...objeto, NovoItem]"}
     ];
 

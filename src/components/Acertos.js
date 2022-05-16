@@ -12,3 +12,4 @@ export default function Acertos(props){
         return(<ion-icon name="checkmark-circle" color="success"></ion-icon>);
     }
 }
+
