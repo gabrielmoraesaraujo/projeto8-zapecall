@@ -90,28 +90,3 @@ export default function Questions(){
         </div>
     </div>);
 }
-
-ddddssd
-kalskasok
-
-function new (){
-    cara 
-
-}
-
-let  [lala, setCompleted]
-web web WritableStreamDefaultWriter
-
-addQuaseNaoLembreias
-
-
-as
-assfffg
-aaaaaasasasasasasas
-KeyboardEvent joinPaths
-kokoko
-MediaKeySession
-
-GainNode
-asoasoas
-

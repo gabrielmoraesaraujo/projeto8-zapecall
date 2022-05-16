@@ -1,4 +1,6 @@
 import React from "react";
+import { resolveTo } from "react-router/lib/router";
+import { Children } from "react/cjs/react.production.min";
 import party from "../assets/party.png"
 import sad from "../assets/sad.png"
 
@@ -25,3 +27,5 @@ export default function Concluido(props){
                 ); 
 
 }
+
+
