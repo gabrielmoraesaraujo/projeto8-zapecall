@@ -4,6 +4,7 @@ import Concluido from "./Concluido";
 import Acertos from "./Acertos";
 
 import image1 from "../assets/logo-pequeno.png"
+import { joinPaths } from "react-router/lib/router";
 
 function carregarFlashcards(){
     let flashcards = [
@@ -89,3 +90,28 @@ export default function Questions(){
         </div>
     </div>);
 }
+
+ddddssd
+kalskasok
+
+function new (){
+    cara 
+
+}
+
+let  [lala, setCompleted]
+web web WritableStreamDefaultWriter
+
+addQuaseNaoLembreias
+
+
+as
+assfffg
+aaaaaasasasasasasas
+KeyboardEvent joinPaths
+kokoko
+MediaKeySession
+
+GainNode
+asoasoas
+
